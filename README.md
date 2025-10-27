@@ -1,6 +1,6 @@
-15-Days-15-Games-Day-14-Soccer-Sumo
+15-Days-15-Games-Day-13-Soccer-Sumo
 
-This is the fourteenth game from my "15 Days 15 Games" challenge. It is a 3D top-down arena game combining physics-based "sumo" mechanics with a soccer-inspired goal defense objective. It features enemy waves, player power-ups, and a boost ability.
+This is the thirteenth game from my "15 Days 15 Games" challenge. It is a 3D top-down arena game combining physics-based "sumo" mechanics with a soccer-inspired goal defense objective. It features enemy waves, player power-ups, and a boost ability.
 
 🚀 About the Game
 
@@ -23,4 +23,4 @@ Modular Power-Up: A focused power-up system grants temporary enhanced pushing st
 ▶️ Play the Game!
 
 You can play the game in your browser on its itch.io page:
-[Link to your new itch.io page for this game]
+**https://shanmukha.itch.io/soccer-sumo**
